@@ -26,11 +26,7 @@ h1{
     min-height: 700px;
     
 }
-/* 
-.container{
-   display:flex;
-   margin:0 auto; */
-}
+
 
 .align-items-center {
     -webkit-box-align: center!important;
@@ -66,7 +62,6 @@ div {
     width:max-content;
     padding: 60px;
     margin:auto;
-    /* margin-top: -300px; */
 
     border: 1px solid rgba(0,0,0,0.15);
     border-radius: 6px;
